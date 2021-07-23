@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NfcDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/NfcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NfcDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NfcDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nfclib/NfcDemo.nfclib.iml" filepath="$PROJECT_DIR$/.idea/modules/nfclib/NfcDemo.nfclib.iml" />
+    </modules>
+  </component>
+</project>
